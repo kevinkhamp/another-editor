@@ -6,7 +6,9 @@ This is a program for a text editor that can be written in JavaScript.
 
 ## Visuals
 
-TBD
+![1](https://github.com/shimpfierie/another-editor/blob/main/1.PNG?raw=true)
+![2](https://github.com/shimpfierie/another-editor/blob/main/2.PNG?raw=true)
+![3](https://github.com/shimpfierie/another-editor/blob/main/3.PNG?raw=true)
 
 ## Installation
 
